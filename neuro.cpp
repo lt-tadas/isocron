@@ -1,4 +1,3 @@
-	//All these libraries, and you still can't read a book
 #include <iostream>		//cout, plus whatever else
 #include <fstream>		//ifstream
 #include <sstream>		//stringstream
@@ -8,8 +7,8 @@
 #include <iterator>		//begin, end
 #include <functional>	//mersenne engine
 #include <numeric>		//inner_product
-#include <time.h>
-#include <unistd.h>
+#include <time.h>		//time
+#include <unistd.h>		//used for debugging in cout
 
 #define alpha 0.2
 
